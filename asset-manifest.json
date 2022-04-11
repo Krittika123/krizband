@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krizband/static/css/main.1658c198.css",
+    "main.js": "/krizband/static/js/main.5d39b657.js",
+    "index.html": "/krizband/index.html",
+    "main.1658c198.css.map": "/krizband/static/css/main.1658c198.css.map",
+    "main.5d39b657.js.map": "/krizband/static/js/main.5d39b657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1658c198.css",
+    "static/js/main.5d39b657.js"
+  ]
+}
